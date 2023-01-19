@@ -1,0 +1,19 @@
+﻿cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  button.cpp
+D:\course\程设\2022.12_fianl_hw\221220060_陈柔伊\源码文件\aeroplane chess\button.cpp(18,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\course\程设\2022.12_fianl_hw\221220060_陈柔伊\源码文件\aeroplane chess\button.cpp(21,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  creat_game.cpp
+  debug.cpp
+  draw_game.cpp
+  judge.cpp
+  main.cpp
+  move.cpp
+  roll_dice.cpp
+  strategy.cpp
+  text.cpp
+D:\course\程设\2022.12_fianl_hw\221220060_陈柔伊\源码文件\aeroplane chess\text.cpp(17,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\course\程设\2022.12_fianl_hw\221220060_陈柔伊\源码文件\aeroplane chess\text.cpp(18,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\course\程设\2022.12_fianl_hw\221220060_陈柔伊\源码文件\aeroplane chess\text.cpp(41,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\course\程设\2022.12_fianl_hw\221220060_陈柔伊\源码文件\aeroplane chess\text.cpp(47,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  aeroplane chess.vcxproj -> D:\course\程设\2022.12_fianl_hw\221220060_陈柔伊\源码文件\x64\Debug\aeroplane chess.exe
